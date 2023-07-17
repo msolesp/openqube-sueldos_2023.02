@@ -1,5 +1,5 @@
 
-## Edición 2021.02 (2021 - 2do semestre).
+## Edición 2023.02 (2023 - 2do semestre).
 
 <img src='https://sysarmy.com/blog/assets/carpincho.jpg' width="300px">
 
@@ -13,13 +13,13 @@ El objetivo es poder analizar los salarios del mundo IT de Argentina, así como 
 
 Para ello se analizó la información utilizando Python en Google Colab, por lo cual los informes son 100% reproducibles en el navegador. La información se muestra en un sitio web hecho en react.
 
-[Sitio web con los resultados](https://sueldos.openqube.io/encuesta-sueldos-2021.02)
+[Sitio web con los resultados](https://sueldos.openqube.io/encuesta-sueldos-2023.02)
 
 ### Acerca de los datos
 
 Los datos se dividen en _no históricos_ e _históricos_. 
 
-- Los datos _no históricos_ son los usados para medir el último período de análisis (julio-agosto 2021).
+- Los datos _no históricos_ son los usados para medir el último período de análisis (junio-julio 2023).
 
 - Los _históricos_ contienen algunas de las variables que se miden a lo largo del tiempo.
 
@@ -45,16 +45,16 @@ _Disclaimer: Pertence al equipo de análisis de esta edición._
 
 ### 🗃 Datasets listos para analizar
 
-- Datos limpios / pre-procesados por los scripts de Google colab publicados: [No histórico CLEAN](https://docs.google.com/spreadsheets/d/1x-Lhp3NJJCQom3nijfu8fublQ5Ui1ZOiCy5DxagKz9M/edit?usp=sharing). Si buscás ir directo a analizar, sin tener que lidiar con las típicas inconsistencias, este es tu dataset.
+- Datos limpios / pre-procesados por los scripts de Google colab publicados: [No histórico CLEAN](https://docs.google.com/spreadsheets/d/1-59q6epgnkOKnFsyi3uOrC72pTMJz60fvmAOvnxP-no/edit#gid=1913604103). Si buscás ir directo a analizar, sin tener que lidiar con las típicas inconsistencias, este es tu dataset.
 
 
-- Datos sin procesar, tal cual se obtuvieron de la encuesta (anunciado en el blog): [No histórico](https://github.com/pablo14/openqube-sueldos/blob/master/data/csv/argentina/2021.02.csv)
+- Datos sin procesar, tal cual se obtuvieron de la encuesta (anunciado en el blog): [No histórico](https://docs.google.com/spreadsheets/d/1-59q6epgnkOKnFsyi3uOrC72pTMJz60fvmAOvnxP-no/edit#gid=1719689619)
 
 
 - Datos con contenido de ediciones anteriores para medir la evolución. Sólo se consideran algunas variables: [Historico](https://docs.google.com/spreadsheets/d/1tUZ4kQUm-66tENFL7qF0GmgoxJ9a4qU8yqyF3uyHsto/edit?usp=sharing) 
 
 
-- Blog post de sysarmy anunciando los datos, [aquí](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2021-2/).
+- Blog post de sysarmy anunciando los datos, [aquí](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2023-2/).
 
 
 
@@ -100,9 +100,6 @@ Esta sección contiene los links a la documentación con las consideraciones nec
 
 ## About
 
-El presente informe fue realizado para Openqube por [Leonardo Genzano](https://ar.linkedin.com/in/leonardo-genzano-1b275193/) (Python developer) y [Nico Quiroz](https://twitter.com/cocodibuja) (frontend) y [Pablo Casas](https://twitter.com/pabloc_ds) (Líder de proyecto), de [Escuela de Datos Vivos](https://escueladedatosvivos.ai).
+El presente informe fue realizado para Openqube por [Sol Espain](https://www.linkedin.com/in/mar%C3%ADa-sol-espain-641ba013b/) y [Rodrigo Díaz](https://linktr.ee/rodrigofdiaz/).
 
-Basado en el trabajo previo de [Nadia Kazlauskas](https://www.linkedin.com/in/nadiakazlauskas/), [Pablo Fernandez](https://www.linkedin.com/in/fernandezpablo85/), [Luciana Castro](https://twitter.com/luscastro) y [Gerardo Bort](https://twitter.com/gerardobort).
-
-
-
+Basado en el trabajo previo de [Nadia Kazlauskas](https://www.linkedin.com/in/nadiakazlauskas/), [Pablo Fernandez](https://www.linkedin.com/in/fernandezpablo85/), [Luciana Castro](https://twitter.com/luscastro), [Gerardo Bort](https://twitter.com/gerardobort), [Leonardo Genzano](https://ar.linkedin.com/in/leonardo-genzano-1b275193/), [Nico Quiroz](https://twitter.com/cocodibuja), [Pablo Casas](https://twitter.com/pabloc_ds), [Lara López Calvo](https://twitter.com/larilopezcalvo) y [Juan Manuel Benítez](https://www.linkedin.com/in/benitezjuanm/).
